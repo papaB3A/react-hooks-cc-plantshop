@@ -6,7 +6,7 @@ Welcome to **Plantsy** - the backend management system for the Plantsy plant sto
 - [Project Setup](#project-setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
--[Support and contact details](#support-and-contact-details)
+- [Support and contact details](#support-and-contact-details)
 - [License](#license)
 
 ## Features
