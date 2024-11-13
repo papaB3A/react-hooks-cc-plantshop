@@ -1,5 +1,4 @@
 {
-  "homepage": "https://papaB3A.github.io/react-hooks-cc-plantshop",
   "name": "react-hooks-mock-code-challenge-plantshop",
   "version": "0.1.0",
   "private": true,
@@ -11,8 +10,6 @@
     "react-scripts": "^5.0.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "server": "json-server --watch db.json -p 6001",
